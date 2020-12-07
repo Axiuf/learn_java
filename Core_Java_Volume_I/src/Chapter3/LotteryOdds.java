@@ -3,7 +3,7 @@ package Chapter3;
 import java.util.*;
 
 /**
- * This program demonstrate a <code>for</code> loop.
+ * This program demonstrates a <code>for</code> loop.
  * @version 1.20 2004-02-10
  * @author written by Shan Cheng
  */
