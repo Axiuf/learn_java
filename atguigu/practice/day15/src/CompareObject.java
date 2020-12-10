@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface CompareObject {
+public interface CompareObject
+{
+    public int compareTo(Object o);
 }
