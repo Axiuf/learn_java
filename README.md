@@ -3,6 +3,7 @@
 - **Core_Java_Volume_I:** 《Java核心技术 卷一》中的示例代码。自己动手敲出来的，权当练手。
 
 - **atguigu**
+    - **practice:** 一些练手的文件。
     - **myproject02:** [《Java零基础教程》配套项目。](https://www.bilibili.com/video/BV1Kb411W75N)P248-P259。主要运用到：
         1. 类结构的使用，属性、方法、构造器
         2. 对象的创建与使用
