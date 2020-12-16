@@ -2,16 +2,16 @@
 
 - **Core_Java_Volume_I:** 《Java核心技术 卷一》中的示例代码。自己动手敲出来的，权当练手。
 
-- **atguigu**
+- **atguigu:** [《Java零基础教程》](https://www.bilibili.com/video/BV1Kb411W75N)
     - **practice:** 一些练手的文件。
-    - **myproject02:** [《Java零基础教程》配套项目。](https://www.bilibili.com/video/BV1Kb411W75N)P248-P259。主要运用到：
+    - **myproject02:** 配套项目P248-P259。主要运用到：
         1. 类结构的使用，属性、方法、构造器
         2. 对象的创建与使用
         3. 类的封装性
         4. 声明和使用数组
         5. 数组的插入、删除和替换
         6. 关键字的使用：this
-    - **myproject03:** [《Java零基础教程》配套项目。](https://www.bilibili.com/video/BV1Kb411W75N)P387-P405。主要运用到：
+    - **myproject03:** 配套项目P387-P405。主要运用到：
         1. 类的继承性和多态性
         2. 对象的值传递和、接口
         3. static和final修饰符
