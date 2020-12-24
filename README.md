@@ -5,7 +5,7 @@
 - **atguigu:** [《Java零基础教程》](https://www.bilibili.com/video/BV1Kb411W75N)
     - **practice:** 一些练手的文件。
         1. 基础部分：关键字、变量、基本数据类型、基本语法（赋值、比较、位运算、逻辑运算、判断、循环）、数组、面向对象（封装、继承、多态、抽象类、接口）、异常
-        2. 进阶部分：多线程、常用类（字符串处理、日期时间处理）、枚举、注解、集合
+        2. 进阶部分：多线程、常用类（字符串处理、日期时间处理）、枚举、注解、集合（Collection：List（ArrayList，LinkedList，Vector），Set（HashSet，LinkedHashSet，TreeSet）；Map：HashMap，LinkedHashMap，TreeMap，HashTable（Properties）
     - **myproject02:** 配套项目P248-P259。主要运用到：
         1. 类结构的使用，属性、方法、构造器
         2. 对象的创建与使用
