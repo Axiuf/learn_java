@@ -20,6 +20,12 @@
         4. 特殊类的使用：包装类、抽象类、内部类
         5. 异常处理
 
+- **jdbc:** [《JDBC核心技术》](https://www.bilibili.com/video/BV1eJ411c7rf)
+    1. 获取数据库连接的要素：数据库URL、用户名&密码、第三方数据库驱动。获取数据库连接的几种形式。
+    2. 使用PreparedStatement实现CRUD操作。与Statement操作的差别
+    3. 数据库事务相关：ACID属性，四种隔离级别
+    4. 数据库连接池（Druid），Apache-DBUtils实现CRUD操作
+
 - **bigdata_technology_and_application**
     - **WordCount:** [《MapReduce编程实践(Hadoop3.1.3)》。](http://dblab.xmu.edu.cn/blog/2481-2/)主要考察：
         1. 自定义Map函数和Reduce函数
