@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="255d0218-d4da-44b8-9ff4-0a619c770bb1" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/abstractClasses/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/abstractClasses/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/abstractClasses/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/abstractClasses/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/arrays/CopyOfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/methods/MethodTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/objectAnalyzer/ObjectAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/objectAnalyzer/ObjectAnalyzerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/reflection/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/01_HTML_CSS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/01.CSS基本语法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/02.标签名选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/03.ID选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/04.class类型选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/05.组合选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/06-css常用样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/1-css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/2-css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/3-css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/0-标签语法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/1.font标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/10.表单.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/10.表单提交的细节.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/11.other.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/2.特殊字符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/3.内联框架.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/3.标题标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/4.超链接.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/5.img标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/6.表格标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/7.表格跨行跨列.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/8.iframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/9.列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/02_JavaScript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWeb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/CalendarTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/ConstructorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/PackageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/ParamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter5/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter5/EnumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter5/Size.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/CalendarTest/CalendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/ConstructorTest/ConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/Employee1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/EmployeeTest/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/Employee5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/PackageTest/com/horstmann/corejava/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/PackageTest/PackageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/ParamTest/ParamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/StaticTest/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/arrayList/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/enums/EnumTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1n0CyEo0TMP0ibqTmArJTc80tug" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="255d0218-d4da-44b8-9ff4-0a619c770bb1" name="默认的" comment="" />
+      <created>1610517873552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610517873552</updated>
+      <workItem from="1610517874941" duration="1947000" />
+      <workItem from="1610542287747" duration="2511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
