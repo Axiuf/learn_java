@@ -2,89 +2,124 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="255d0218-d4da-44b8-9ff4-0a619c770bb1" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/abstractClasses/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/abstractClasses/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/abstractClasses/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/abstractClasses/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/arrays/CopyOfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/methods/MethodTableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/objectAnalyzer/ObjectAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/objectAnalyzer/ObjectAnalyzerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/reflection/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/01_HTML_CSS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/01.CSS基本语法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/02.标签名选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/03.ID选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/04.class类型选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/05.组合选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/06-css常用样式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/1-css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/2-css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/css/3-css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/0-标签语法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/1.font标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/10.表单.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/10.表单提交的细节.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/11.other.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/2.特殊字符.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/3.内联框架.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/3.标题标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/4.超链接.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/5.img标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/6.表格标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/7.表格跨行跨列.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/8.iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/html/9.列表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_HTML_CSS/imgs/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/02_JavaScript.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaWeb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/CalendarTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/ConstructorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee1Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/Employee5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/PackageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/ParamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter4/StaticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter5/ArrayTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter5/EnumTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/out/production/Core_Java_Volume_I/Chapter5/Size.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/CalendarTest/CalendarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/ConstructorTest/ConstructorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/Employee1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/EmployeeTest/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/Employee5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/PackageTest/com/horstmann/corejava/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/PackageTest/PackageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/ParamTest/ParamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter4/StaticTest/StaticTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/arrayList/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/src/Chapter5/enums/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/Chapter6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/anonymousInnerClass/AnonymousInnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/clone/CloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/clone/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/innerClass/innerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/interfaces/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/interfaces/EmployeeSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/lambda/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/staticInnerClass/StaticInnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/timer/TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/01-hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/02-hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/03-变量.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/04-关系运算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/05-逻辑运算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/05.DOM查询练习/dom查询.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/05.DOM查询练习/style/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/06-数组.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/07-函数的第一种定义方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/08-函数的第二种定义方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/09-js不允许函数重载.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/10-隐形参数arguments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/11-Object形式的自定义对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/12-大括号形式的自定义对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/createElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/getElementById.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/getElementsByName.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/getElementsByTagName.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/regexp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/wrong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/event/onblur.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/event/onchange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/event/onclick.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/event/onload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_JavaScript/event/onsubmit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/03_jQuery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo01.入门/01.HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo01.入门/01.HelloWorld_.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo01.入门/02.$的本质.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo01.入门/03.核心函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo01.入门/04.DOM对象和jQuery对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/01.基本选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/02.层次选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/03.基本的过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/04.内容过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/05.可见性过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/06.属性过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/08.表单对象属性过滤选择器__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/09.元素筛选方法__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo03.DOM操作/2、dom属性操作___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo03.DOM操作/3、dom增删改___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo03.DOM操作/style/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo04.CSS样式操作/jqueryCss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo04.CSS样式操作/jqueryCss___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo04.CSS样式操作/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/01.文档加载/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/01.文档加载/load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/01.文档加载/load___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/02.事件绑定/bind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/02.事件绑定/bind____.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/02.事件绑定/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/03.事件移除/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/03.事件移除/style/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/03.事件移除/style/css.css.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/03.事件移除/unbind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/03.事件移除/unbind___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/04.事件冒泡/bubble.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/04.事件冒泡/bubble___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/04.事件冒泡/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/05.事件对象/eventObj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/05.事件对象/eventObj__emp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/05.事件对象/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo06.动画/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo06.动画/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo06.动画/动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo06.动画/动画__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/test3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习01 选择器练习01 隔行变色/ex_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习01 选择器练习01 隔行变色/ex_3_emp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习01 选择器练习01 隔行变色/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习02 选择器练习02 全选全不选/ex-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习02 选择器练习02 全选全不选/ex-4__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习03 选择器练习03 表单选择器/ex_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习03 选择器练习03 表单选择器/ex_5_emp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习03 选择器练习03 表单选择器/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习03 选择器练习03 表单选择器/表单选择器练习_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习03 选择器练习03 表单选择器/表单选择器练习_5__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习04 DOM操作01 selected/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习04 DOM操作01 selected/selected.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习04 DOM操作01 selected/selected空白.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习04 DOM操作01 selected/从左到右，从右到左.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习04 DOM操作01 selected/从左到右，从右到左__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习05 DOM操作02 添加删除记录/ex-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习05 DOM操作02 添加删除记录/ex-5___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习05 DOM操作02 添加删除记录/styleB/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习05 DOM操作02 添加删除记录/添加删除记录-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习05 DOM操作02 添加删除记录/添加删除记录-5___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs空白.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/img/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/img/up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/img/big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/img/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/imgFollow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/imgFollow__.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/imgFollow空白.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/script/jquery-1.7.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,23 +153,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="15" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -145,7 +168,12 @@
       <option name="presentableId" value="Default" />
       <updated>1610517873552</updated>
       <workItem from="1610517874941" duration="1947000" />
-      <workItem from="1610542287747" duration="2511000" />
+      <workItem from="1610542287747" duration="2514000" />
+      <workItem from="1610548926734" duration="12000" />
+      <workItem from="1610588022311" duration="1138000" />
+      <workItem from="1610631161031" duration="22000" />
+      <workItem from="1610764303801" duration="11508000" />
+      <workItem from="1610937302421" duration="5991000" />
     </task>
     <servers />
   </component>
