@@ -1,123 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="demo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="255d0218-d4da-44b8-9ff4-0a619c770bb1" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/Chapter6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/anonymousInnerClass/AnonymousInnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/clone/CloneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/clone/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/innerClass/innerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/interfaces/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/interfaces/EmployeeSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/lambda/LambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/proxy/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/staticInnerClass/StaticInnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/Chapter6/src/timer/TimerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/01-hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/02-hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/03-变量.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/04-关系运算.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/05-逻辑运算.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/05.DOM查询练习/dom查询.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/05.DOM查询练习/style/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/06-数组.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/07-函数的第一种定义方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/08-函数的第二种定义方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/09-js不允许函数重载.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/10-隐形参数arguments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/11-Object形式的自定义对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/12-大括号形式的自定义对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/createElement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/getElementById.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/getElementsByName.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/getElementsByTagName.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/regexp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/document/wrong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/event/onblur.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/event/onchange.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/event/onclick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/event/onload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_JavaScript/event/onsubmit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/03_jQuery.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo01.入门/01.HelloWorld.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo01.入门/01.HelloWorld_.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo01.入门/02.$的本质.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo01.入门/03.核心函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo01.入门/04.DOM对象和jQuery对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/01.基本选择器__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/02.层次选择器__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/03.基本的过滤选择器__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/04.内容过滤选择器__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/05.可见性过滤选择器__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/06.属性过滤选择器__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/08.表单对象属性过滤选择器__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo02.选择器/09.元素筛选方法__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo03.DOM操作/2、dom属性操作___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo03.DOM操作/3、dom增删改___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo03.DOM操作/style/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo04.CSS样式操作/jqueryCss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo04.CSS样式操作/jqueryCss___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo04.CSS样式操作/script/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/01.文档加载/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/01.文档加载/load.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/01.文档加载/load___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/02.事件绑定/bind.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/02.事件绑定/bind____.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/02.事件绑定/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/03.事件移除/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/03.事件移除/style/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/03.事件移除/style/css.css.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/03.事件移除/unbind.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/03.事件移除/unbind___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/04.事件冒泡/bubble.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/04.事件冒泡/bubble___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/04.事件冒泡/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/05.事件对象/eventObj.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/05.事件对象/eventObj__emp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo05.事件/05.事件对象/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo06.动画/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo06.动画/script/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo06.动画/动画.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/Demo06.动画/动画__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/script/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/test3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习01 选择器练习01 隔行变色/ex_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习01 选择器练习01 隔行变色/ex_3_emp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习01 选择器练习01 隔行变色/script/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习02 选择器练习02 全选全不选/ex-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习02 选择器练习02 全选全不选/ex-4__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习03 选择器练习03 表单选择器/ex_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习03 选择器练习03 表单选择器/ex_5_emp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习03 选择器练习03 表单选择器/script/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习03 选择器练习03 表单选择器/表单选择器练习_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习03 选择器练习03 表单选择器/表单选择器练习_5__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习04 DOM操作01 selected/script/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习04 DOM操作01 selected/selected.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习04 DOM操作01 selected/selected空白.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习04 DOM操作01 selected/从左到右，从右到左.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习04 DOM操作01 selected/从左到右，从右到左__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习05 DOM操作02 添加删除记录/ex-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习05 DOM操作02 添加删除记录/ex-5___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习05 DOM操作02 添加删除记录/styleB/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习05 DOM操作02 添加删除记录/添加删除记录-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习05 DOM操作02 添加删除记录/添加删除记录-5___.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/displaydcs空白.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/img/down.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/img/up.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习06 CSS_动画 品牌展示/script/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/img/big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/img/small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/imgFollow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/imgFollow__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/imgFollow空白.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_jQuery/src/Demo/练习/☆练习07 事件 图片跟随/script/jquery-1.7.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core_Java_Volume_I/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core_Java_Volume_I/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/04_XML_Tomcat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/05_book_static.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/cart/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/cart/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/manager/book_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/manager/book_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/manager/manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/manager/order_manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/order/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/user/login_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/user/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/user/regist_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/img/code.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/img/pwd-icons-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/05_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/src/com/atguigu/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/05_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/src/books.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/src/com/atguigu/pojo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/src/com/atguigu/pojo/Dom4jTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/xml/books.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -130,11 +68,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1n0CyEo0TMP0ibqTmArJTc80tug" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -154,10 +100,100 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="15" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" />
+    <property name="project.structure.last.edited" value="问题" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.46882495" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\axiuf\Desktop\learn_java\JavaWeb\demo\src\main\webapp\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="dbf857d3-8fcb-4fa5-a994-c24cff0fcbca" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64132" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="04_XML_Tomcat:Web exploded" />
+        </option>
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -173,8 +209,28 @@
       <workItem from="1610588022311" duration="1138000" />
       <workItem from="1610631161031" duration="22000" />
       <workItem from="1610764303801" duration="11508000" />
-      <workItem from="1610937302421" duration="5991000" />
+      <workItem from="1610937302421" duration="6853000" />
+      <workItem from="1611023044645" duration="6226000" />
+      <workItem from="1611119058384" duration="2222000" />
+      <workItem from="1611125285685" duration="1161000" />
+      <workItem from="1611126450304" duration="803000" />
+      <workItem from="1611127256608" duration="16000" />
+      <workItem from="1611127274822" duration="264000" />
+      <workItem from="1611127542552" duration="1915000" />
+      <workItem from="1611129465024" duration="73000" />
+      <workItem from="1611129543618" duration="348000" />
+      <workItem from="1611129899057" duration="464000" />
+      <workItem from="1611130368020" duration="81000" />
+      <workItem from="1611130462454" duration="1244000" />
     </task>
+    <task id="LOCAL-00001" summary="Add jQuery">
+      <created>1610985878156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610985878157</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,5 +250,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add jQuery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add jQuery" />
   </component>
 </project>
