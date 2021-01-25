@@ -10,51 +10,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="255d0218-d4da-44b8-9ff4-0a619c770bb1" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/04_XML_Tomcat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/05_book_static.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/cart/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/cart/checkout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/manager/book_edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/manager/book_manager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/manager/manager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/manager/order_manager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/order/order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/user/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/user/login_success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/user/regist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/pages/user/regist_success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/img/code.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/img/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/img/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/img/pwd-icons-new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_book_static/static/script/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/05_web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/src/com/atguigu/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/05_xml.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/lib/dom4j-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/src/books.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/src/com/atguigu/pojo/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/src/com/atguigu/pojo/Dom4jTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_XML_Tomcat/src/05_xml/xml/books.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/05_Servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/06_servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/src/com/atguigu/servlet/ContextServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/src/com/atguigu/servlet/ContextServlet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/src/com/atguigu/servlet/ContextServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/src/com/atguigu/servlet/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/src/com/atguigu/servlet/HelloServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/src/com/atguigu/servlet/HelloServlet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/web/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/web/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/web/imgs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/06_servlet/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/07_servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/src/com/atguigu/servlet/ForwardC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/src/com/atguigu/servlet/ParameterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/src/com/atguigu/servlet/RequestAPIServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/src/com/atguigu/servlet/Response1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/src/com/atguigu/servlet/Response2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/src/com/atguigu/servlet/ResponseIOServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/src/com/atguigu/servlet/Servlet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/src/com/atguigu/servlet/Servlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/web/WEB-INF/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/web/a/b/c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Servlet/src/07_servlet/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/06_JSP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/08_jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/src/com/atguigu/listener/MyServletContextListenerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/src/com/atguigu/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/src/com/atguigu/servlet/PringHtml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/src/com/atguigu/servlet/SearchStudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/src/com/atguigu/servlet/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/b.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/error500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/include/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/include/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/scope.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/scope2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/test/showStudent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JSP/src/08_jsp/web/test/test1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/07_EL_JSTL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/09_EL_JSTL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/src/com/atguigu/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/src/com/atguigu/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/src/com/atguigu/servlet/UploadServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/b.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/c.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/core.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/d.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/e.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/f.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/forEach.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/other_el_obj.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/pageContext.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/scope.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_EL_JSTL/src/09_EL_JSTL/web/upload.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -68,6 +104,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -99,21 +136,312 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="15" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_XML_Tomcat/src/05_web/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" />
-    <property name="project.structure.last.edited" value="问题" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/07_EL_JSTL/src" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.46882495" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\axiuf\Desktop\learn_java\JavaWeb\07_EL_JSTL\src" />
+      <recent name="C:\Users\axiuf\Desktop\learn_java\JavaWeb\06_JSP\src" />
       <recent name="C:\Users\axiuf\Desktop\learn_java\JavaWeb\demo\src\main\webapp\WEB-INF\lib" />
+      <recent name="C:\Users\axiuf\Desktop\learn_java\JavaWeb\demo\src\main\java" />
+      <recent name="C:\Users\axiuf\Desktop\learn_java\JavaWeb\demo\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\axiuf\Desktop\learn_java\JavaWeb\demo\src\main\resources" />
+      <recent name="C:\Users\axiuf\Desktop\learn_java\JavaWeb\demo\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.atguigu.test" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.demo">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.queryUserByUsernameAndPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="queryUserByUsernameAndPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.saveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="saveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.existUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.UserServiceTest" />
+      <option name="METHOD_NAME" value="existUserName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.UserServiceTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.registerUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.UserServiceTest" />
+      <option name="METHOD_NAME" value="registerUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="demo" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0feb0eb4-091f-4f1d-a0fe-ab1a056764e6" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64820" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="876e729d-3f80-4c7a-99b8-0da4498d008b" />
+                    <id>876e729d-3f80-4c7a-99b8-0da4498d008b</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="876e729d-3f80-4c7a-99b8-0da4498d008b" />
+                    <id>876e729d-3f80-4c7a-99b8-0da4498d008b</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="87c35209-9487-468f-bfdc-f7ede8140230" />
+                    <id>87c35209-9487-468f-bfdc-f7ede8140230</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="87c35209-9487-468f-bfdc-f7ede8140230" />
+                    <id>87c35209-9487-468f-bfdc-f7ede8140230</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64821" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment />
       <server-settings>
@@ -189,11 +517,169 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="04_XML_Tomcat:Web exploded" />
-        </option>
       </method>
     </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="0fc5b024-af63-493f-b745-f4561676692b" />
+                    <id>0fc5b024-af63-493f-b745-f4561676692b</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="0fc5b024-af63-493f-b745-f4561676692b" />
+                    <id>0fc5b024-af63-493f-b745-f4561676692b</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="14827ceb-bedc-48fb-acaa-ce1823e27a27" />
+                    <id>14827ceb-bedc-48fb-acaa-ce1823e27a27</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="14827ceb-bedc-48fb-acaa-ce1823e27a27" />
+                    <id>14827ceb-bedc-48fb-acaa-ce1823e27a27</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64815" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/demo_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="demo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/demo_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="bcd50cf0-f5fb-43c5-b0f6-ac9f4faebc66" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64132" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserDaoTest.queryUserByUsernameAndPassword" />
+      <item itemvalue="JUnit.UserDaoTest.saveUser" />
+      <item itemvalue="JUnit.UserServiceTest.registerUser" />
+      <item itemvalue="JUnit.UserServiceTest.login" />
+      <item itemvalue="JUnit.UserServiceTest.existUserName" />
+      <item itemvalue="Tomcat Server.demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.existUserName" />
+        <item itemvalue="JUnit.UserServiceTest.login" />
+        <item itemvalue="JUnit.UserServiceTest.registerUser" />
+        <item itemvalue="JUnit.UserDaoTest.saveUser" />
+        <item itemvalue="JUnit.UserDaoTest.queryUserByUsernameAndPassword" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -221,7 +707,14 @@
       <workItem from="1611129543618" duration="348000" />
       <workItem from="1611129899057" duration="464000" />
       <workItem from="1611130368020" duration="81000" />
-      <workItem from="1611130462454" duration="1244000" />
+      <workItem from="1611130462454" duration="3978000" />
+      <workItem from="1611210616392" duration="11570000" />
+      <workItem from="1611298365331" duration="1454000" />
+      <workItem from="1611302928921" duration="5647000" />
+      <workItem from="1611322339837" duration="593000" />
+      <workItem from="1611322939628" duration="12500000" />
+      <workItem from="1611572713777" duration="2739000" />
+      <workItem from="1611588983898" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="Add jQuery">
       <created>1610985878156</created>
@@ -230,7 +723,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610985878157</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Tomcat">
+      <created>1611139070872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611139070872</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +751,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add jQuery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add jQuery" />
+    <MESSAGE value="Add Tomcat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Tomcat" />
   </component>
 </project>
