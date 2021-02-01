@@ -9,7 +9,11 @@
       <module fileurl="file://$PROJECT_DIR$/05_Servlet/05_Servlet.iml" filepath="$PROJECT_DIR$/05_Servlet/05_Servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_JSP/06_JSP.iml" filepath="$PROJECT_DIR$/06_JSP/06_JSP.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_EL_JSTL/07_EL_JSTL.iml" filepath="$PROJECT_DIR$/07_EL_JSTL/07_EL_JSTL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Cookie_Session/08_Cookie_Session.iml" filepath="$PROJECT_DIR$/08_Cookie_Session/08_Cookie_Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Filter/09_Filter.iml" filepath="$PROJECT_DIR$/09_Filter/09_Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_JSON_AJAX_i18n/10_JSON_AJAX_i18n.iml" filepath="$PROJECT_DIR$/10_JSON_AJAX_i18n/10_JSON_AJAX_i18n.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
     </modules>
   </component>
 </project>

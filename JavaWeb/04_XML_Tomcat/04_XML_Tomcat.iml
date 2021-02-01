@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="FacetManager">
-    <facet type="web" name="Web">
-      <configuration>
-        <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/src/05_web/web/WEB-INF/web.xml" />
-        </descriptors>
-        <webroots>
-          <root url="file://$MODULE_DIR$/src/05_web/web" relative="/" />
-        </webroots>
-        <sourceRoots />
-      </configuration>
-    </facet>
-  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -20,5 +7,17 @@
     </content>
     <orderEntry type="jdk" jdkName="15" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="JavaEE6" level="project" />
+    <orderEntry type="module-library">
+      <library name="04_lib">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/05_xml/lib/dom4j-1.6.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/05_xml/lib/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/05_xml/lib/junit-4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
