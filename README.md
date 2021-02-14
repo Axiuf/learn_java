@@ -13,7 +13,9 @@
     8. 线程、线程通信
     9. 网络编程
     10. Java8新特性、Java9~15新特性
-    11. 设计模式 
+    11. 简单数据结构与算法
+    12. 设计模式 
+    13. 集成开发工具的使用
 
 
 - **jdbc:** [《JDBC核心技术》](https://www.bilibili.com/video/BV1eJ411c7rf)
@@ -32,6 +34,13 @@
     11. 服务器组件Listener
     12. 异步数据传输框架Ajax
     13. 文件的上传和下载
+    14. 前端框架Bootstrap(*)
+
+- **Spring5:** [《Spring5框架最新版教程》](https://www.bilibili.com/video/BV1Vf4y127N5)
+    1. 系统整体分层解耦框架Spring
+    2. Spring IOC 容器
+    3. Spring AOP 面向切面编程
+    4. Spring 高级应用（*WebFlux）
 
 - **bigdata_technology_and_application**
     - **WordCount:** [《MapReduce编程实践(Hadoop3.1.3)》。](http://dblab.xmu.edu.cn/blog/2481-2/)
