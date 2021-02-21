@@ -24,4 +24,3 @@
         <mapper resource="org/bjpowernode/dao/StudentDao.xml"/>
     </mappers>
 </configuration>
-

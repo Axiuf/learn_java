@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bjpowernode.dao.StudentDao">
+    <select id="testSelectIf1" resultType="com.bjpowernode.domain.Student">
+        select id, name, email, age from Student where 1 = 1
+            <if test="id != null and id != ''">
+                and id = #{id}
+            </if>
+            <if test="name != null and name != ''">
+                and name = #{name}
+            </if>
+            <if test="email != null and email != ''">
+                and email = #{email}
+            </if>
+            <if test="age != null and age != ''">
+                and age = #{age}
+            </if>
+    </select>
+
+    <select id="testSelectIf2" resultType="com.bjpowernode.domain.Student">
+        select id, name, email, age from Student where 1 != 1
+            <if test="id != null and id != ''">
+                or id = #{id}
+            </if>
+            <if test="name != null and name != ''">
+                or name = #{name}
+            </if>
+            <if test="email != null and email != ''">
+                or email = #{email}
+            </if>
+            <if test="age != null and age != ''">
+                or age = #{age}
+            </if>
+    </select>
+
+    <select id="testSelectWhere" resultType="com.bjpowernode.domain.Student">
+        select id, name, email, age from Student
+            <where>
+                <if test="id != null and id != ''">
+                    id = #{id}
+                </if>
+                <if test="name != null and name != ''">
+                    and name = #{name}
+                </if>
+                <if test="email != null and email != ''">
+                    or email = #{email}
+                </if>
+                <if test="age != null and age != ''">
+                    and age = #{age}
+                </if>
+            </where>
+
+    </select>
+
+    <select id="testSelectForEach" resultType="com.bjpowernode.domain.Student">
+        select id, name, email, age from student
+            <where>
+                <if test="list != null">
+                    id in
+                        <foreach collection="list" open="(" close=")" item="id" separator=",">
+                            #{id}
+                        </foreach>
+                </if>
+            </where>
+    </select>
+
+</mapper>

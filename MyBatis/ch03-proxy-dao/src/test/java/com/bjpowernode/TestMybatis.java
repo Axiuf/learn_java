@@ -1,8 +1,9 @@
 package com.bjpowernode;
 
-import com.bjpowernode.dao.Impl.StudentDaoImpl;
 import com.bjpowernode.dao.StudentDao;
 import com.bjpowernode.domain.Student;
+import com.bjpowernode.utils.MyBatisUtils;
+import org.apache.ibatis.session.SqlSession;
 import org.junit.Test;
 
 import java.util.List;
@@ -16,22 +17,22 @@ public class TestMybatis
     @Test
     public void testSelectAllStudents()
     {
-        StudentDao studentDao = new StudentDaoImpl();
+        SqlSession session = MyBatisUtils.getSqlSession();
+        StudentDao studentDao = session.getMapper(StudentDao.class);
 
+        System.out.println(studentDao.getClass().getName());
         List<Student> studentList = studentDao.selectAllStudents();
-
         studentList.forEach(System.out::println);
+
     }
 
     @Test
     public void testInsertStudent()
     {
-        StudentDao studentDao = new StudentDaoImpl();
+        SqlSession session = MyBatisUtils.getSqlSession();
+        StudentDao studentDao = session.getMapper(StudentDao.class);
 
-        Student student = new Student(7, "幺六", "yaoliu@hotmail.com", 27);
-
-        int number = studentDao.insertStudent(student);
-
-        System.out.println(number);
+        System.out.println(studentDao.insertStudent(new Student(3, "王五", "wangwu@qq.com", 26)));
+        session.commit();
     }
 }

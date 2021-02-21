@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bjpowernode.dao.StudentDao">
+    <select id="selectStudentById" parameterType="java.lang.Integer" resultType="com.bjpowernode.domain.Student">
+        select id, name, email, age from student where id = #{myId}
+    </select>
+
+    <select id="selectStudentMultiParam" resultType="com.bjpowernode.domain.Student">
+        select name from student where age &lt; #{myAge} and id &gt; #{myId}
+    </select>
+
+    <select id="selectStudentReturnViewStudent" resultType="com.bjpowernode.vo.ViewStudent">
+        select id, name from student where id = #{myId}
+    </select>
+
+    <select id="selectMapById" resultType="java.util.HashMap">
+        select name, email, age from student where id > #{myId}
+    </select>
+
+    <resultMap id="myStudent1" type="com.bjpowernode.domain.MyStudent">
+        <id column="id" property="id"/>
+        <result column="name" property="email"/>
+        <result column="email" property="name"/>
+        <result column="age" property="age"/>
+    </resultMap>
+
+    <select id="selectResultMap" resultMap="myStudent1">
+        select id, name, email, age from student where id = #{myId}
+    </select>
+
+    <select id="selectLike1" resultType="com.bjpowernode.domain.Student">
+        select id, name, email, age from student where name like #{myName}
+    </select>
+
+    <select id="selectLike2" resultType="com.bjpowernode.domain.Student">
+        <!--注意这里后面的拼接写法在框架中可以实现，但是这里直接使用IDEA的语法识别不出-->
+        select id, name, email, age from student where name like '%' #{param1} '%'
+    </select>
+</mapper>

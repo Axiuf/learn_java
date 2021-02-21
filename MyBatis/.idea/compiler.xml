@@ -9,6 +9,9 @@
         <module name="ch01-mybatis-first" />
         <module name="ch02-mybatis-dao" />
         <module name="ch03-proxy-dao" />
+        <module name="ch04-param" />
+        <module name="ch06-dynamic-sql" />
+        <module name="ch05-return-result" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +19,9 @@
       <module name="ch01-mybatis-first" target="1.8" />
       <module name="ch02-mybatis-dao" target="1.8" />
       <module name="ch03-proxy-dao" target="1.8" />
+      <module name="ch04-param" target="1.8" />
+      <module name="ch05-return-result" target="1.8" />
+      <module name="ch06-dynamic-sql" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
