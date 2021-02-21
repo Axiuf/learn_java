@@ -15,7 +15,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="02-mybatis-dao" target="1.8" />
       <module name="ch01-mybatis-first" target="1.8" />
       <module name="ch02-mybatis-dao" target="1.8" />
       <module name="ch03-proxy-dao" target="1.8" />

@@ -42,5 +42,7 @@
     3. Spring AOP 面向切面编程
     4. Spring 高级应用（*WebFlux）
 
+- **Mybatis:** [《2020最新MyBatis教程》](https://www.bilibili.com/video/BV185411s7Ry)
+
 - **bigdata_technology_and_application**
     - **WordCount:** [《MapReduce编程实践(Hadoop3.1.3)》。](http://dblab.xmu.edu.cn/blog/2481-2/)

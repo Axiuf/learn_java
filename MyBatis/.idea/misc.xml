@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ch01-mybatis-first/pom.xml" />
-        <option value="$PROJECT_DIR$/02-mybatis-dao/pom.xml" />
         <option value="$PROJECT_DIR$/ch02-mybatis-dao/pom.xml" />
         <option value="$PROJECT_DIR$/ch03-proxy-dao/pom.xml" />
         <option value="$PROJECT_DIR$/ch04-param/pom.xml" />
