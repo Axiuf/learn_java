@@ -5,24 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f080a2c-d6c2-4740-b63a-989155a340ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54aee644-1c2f-44c4-a7d0-1604271482b4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54aee644-1c2f-44c4-a7d0-1604271482b4/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch01_hello_SpringMVC_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch01_hello_SpringMVC_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch02_RequestMapping_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch02_RequestMapping_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_springframework_spring_web_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/ch01-hello-SpringMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/src/main/java/com/bjpowernode/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/src/main/webapp/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/com/bjpowernode/controller/MyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/classes/com/bjpowernode/controller/MyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch01-hello-SpringMVC/target/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/ch02-RequestMapping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/src/main/java/com/bjpowernode/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/src/main/webapp/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/classes/com/bjpowernode/controller/MyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/classes/com/bjpowernode/controller/MyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch02-RequestMapping/target/classes/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch01-mybatis-first/ch01-mybatis-first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ch01-mybatis-first/ch01-mybatis-first.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch02-mybatis-dao/ch02-mybatis-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ch02-mybatis-dao/ch02-mybatis-dao.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch03-proxy-dao/ch03-proxy-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-proxy-dao/ch03-proxy-dao.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch04-param/ch04-param.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ch04-param/ch04-param.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch05-return-result/ch05-return-result.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ch05-return-result/ch05-return-result.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch06-dynamic-sql/ch06-dynamic-sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ch06-dynamic-sql/ch06-dynamic-sql.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +126,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ch06-dynamic-sql" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29256594" />
@@ -80,96 +136,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\axiuf\Desktop\learn_java\MyBatis" />
     </key>
-  </component>
-  <component name="RunManager" selected="JUnit.TestMybatis.testSelectForEach">
-    <configuration name="TestMybatis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ch06-dynamic-sql" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bjpowernode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bjpowernode" />
-      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestMybatis" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMybatis.testSelectForEach" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ch06-dynamic-sql" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bjpowernode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bjpowernode" />
-      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestMybatis" />
-      <option name="METHOD_NAME" value="testSelectForEach" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMybatis.testSelectLike2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ch05-return-result" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bjpowernode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bjpowernode" />
-      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestMybatis" />
-      <option name="METHOD_NAME" value="testSelectLike2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMybatis.testSelectStudentById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ch06-dynamic-sql" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bjpowernode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bjpowernode" />
-      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestMybatis" />
-      <option name="METHOD_NAME" value="testSelectStudentById" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMybatis.testSelectWhere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ch06-dynamic-sql" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bjpowernode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bjpowernode" />
-      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestMybatis" />
-      <option name="METHOD_NAME" value="testSelectWhere" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.TestMybatis.testSelectForEach" />
-        <item itemvalue="JUnit.TestMybatis.testSelectWhere" />
-        <item itemvalue="JUnit.TestMybatis.testSelectStudentById" />
-        <item itemvalue="JUnit.TestMybatis" />
-        <item itemvalue="JUnit.TestMybatis.testSelectLike2" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -196,6 +162,9 @@
       <workItem from="1613917765925" duration="14000" />
       <workItem from="1613917786447" duration="245000" />
       <workItem from="1613918037991" duration="1000" />
+      <workItem from="1613919622966" duration="542000" />
+      <workItem from="1614000877112" duration="5000" />
+      <workItem from="1614007108801" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="Update 21/02/2021">
       <created>1613917431817</created>

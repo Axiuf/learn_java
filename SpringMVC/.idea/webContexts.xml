@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/html" value="file://$PROJECT_DIR$/ch05-url-pattern/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/test" value="file://$PROJECT_DIR$/ch05-url-pattern/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/test/test2.html" value="file://$PROJECT_DIR$/ch05-url-pattern/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/test/test3.html" value="file://$PROJECT_DIR$/ch05-url-pattern/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>

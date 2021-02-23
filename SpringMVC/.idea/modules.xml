@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringMVC.iml" filepath="$PROJECT_DIR$/.idea/SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01-hello-SpringMVC/ch01-hello-SpringMVC.iml" filepath="$PROJECT_DIR$/ch01-hello-SpringMVC/ch01-hello-SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-RequestMapping/ch02-RequestMapping.iml" filepath="$PROJECT_DIR$/ch02-RequestMapping/ch02-RequestMapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-ReceiveParam/ch03-ReceiveParam.iml" filepath="$PROJECT_DIR$/ch03-ReceiveParam/ch03-ReceiveParam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-Return/ch04-Return.iml" filepath="$PROJECT_DIR$/ch04-Return/ch04-Return.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05-url-pattern/ch05-url-pattern.iml" filepath="$PROJECT_DIR$/ch05-url-pattern/ch05-url-pattern.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ch01-hello-SpringMVC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch01-hello-SpringMVC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch02-RequestMapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch02-RequestMapping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03-ReceiveParam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03-ReceiveParam/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04-Return/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04-Return/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch05-url-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch05-url-pattern/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

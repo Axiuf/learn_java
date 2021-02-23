@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ch05-url-pattern:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="145526f1-68d0-4843-b731-595eff88edb1" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SpringMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ch01_hello_SpringMVC_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ch01_hello_SpringMVC_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ch02_RequestMapping_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ch02_RequestMapping_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ch03_ReceiveParam_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ch03_ReceiveParam_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ch05_url_pattern_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ch05_url_pattern_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/ch01-hello-SpringMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/src/main/java/com/bjpowernode/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/src/main/webapp/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/com/bjpowernode/controller/MyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/ch01-hello-SpringMVC-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/classes/com/bjpowernode/controller/MyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01-hello-SpringMVC/target/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/ch02-RequestMapping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/src/main/java/com/bjpowernode/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/src/main/webapp/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/classes/com/bjpowernode/controller/MyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.2.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/ch02-RequestMapping-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/classes/com/bjpowernode/controller/MyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-RequestMapping/target/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-ReceiveParam/ch03-ReceiveParam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-ReceiveParam/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-ReceiveParam/src/main/java/com/bjpowernode/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-ReceiveParam/src/main/java/com/bjpowernode/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-ReceiveParam/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-ReceiveParam/src/main/webapp/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-ReceiveParam/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-ReceiveParam/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-Return/ch04-Return.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-Return/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-Return/src/main/java/com/bjpowernode/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-Return/src/main/java/com/bjpowernode/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-Return/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-Return/src/main/webapp/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-Return/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-Return/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-Return/src/main/webapp/lib/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/ch05-url-pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/java/com/bjpowernode/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/java/com/bjpowernode/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/WEB-INF/jsp/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/html/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/images/main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/images/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/images/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/images/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/images/p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/images/ssm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/lib/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/test/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/test/test3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-url-pattern/src/main/webapp/test/test4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBatis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBatis/ch01-mybatis-first/ch01-mybatis-first.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBatis/ch01-mybatis-first/ch01-mybatis-first.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBatis/ch02-mybatis-dao/ch02-mybatis-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBatis/ch02-mybatis-dao/ch02-mybatis-dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBatis/ch03-proxy-dao/ch03-proxy-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBatis/ch03-proxy-dao/ch03-proxy-dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBatis/ch04-param/ch04-param.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBatis/ch04-param/ch04-param.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBatis/ch05-return-result/ch05-return-result.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBatis/ch05-return-result/ch05-return-result.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBatis/ch06-dynamic-sql/ch06-dynamic-sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBatis/ch06-dynamic-sql/ch06-dynamic-sql.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1oqHhKixneEL5kTJDli5CeD2sW5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28657314" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\axiuf\Desktop\learn_java\SpringMVC\ch05-url-pattern\src\main\webapp" />
+      <recent name="C:\Users\axiuf\Desktop\learn_java\SpringMVC" />
+      <recent name="C:\Users\axiuf\Desktop\learn_java\SpringMVC\ch04-Return\src\main\webapp\WEB-INF\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\axiuf\Desktop\learn_java\SpringMVC\ch04-Return\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringMVC" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ba5103f2-d0c7-4dd6-bc37-79bfd9fd9e12" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62236" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="showDoc" value="false" />
+    <option name="showGraph" value="false" />
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="145526f1-68d0-4843-b731-595eff88edb1" name="默认的" comment="" />
+      <created>1614007318314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614007318314</updated>
+      <workItem from="1614007319401" duration="68000" />
+      <workItem from="1614007401402" duration="30000" />
+      <workItem from="1614007435345" duration="4000" />
+      <workItem from="1614007460218" duration="3656000" />
+      <workItem from="1614050940189" duration="16061000" />
+      <workItem from="1614087381308" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
