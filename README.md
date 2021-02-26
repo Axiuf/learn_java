@@ -16,8 +16,7 @@
     11. 简单数据结构与算法
     12. 设计模式 
     13. 集成开发工具的使用
-
-
+  
 - **jdbc:** [《JDBC核心技术》](https://www.bilibili.com/video/BV1eJ411c7rf)
 
 - **JavaWeb:** [《JavaWeb零基础入门》](https://www.bilibili.com/video/BV1Y7411K7zz)
@@ -44,5 +43,7 @@
 
 - **Mybatis:** [《2020最新MyBatis教程》](https://www.bilibili.com/video/BV185411s7Ry)
 
+- **SpringMVC:** [《2020最新SpringMVC教程》](https://www.bilibili.com/video/BV1sk4y167pD)
+
 - **bigdata_technology_and_application**
-    - **WordCount:** [《MapReduce编程实践(Hadoop3.1.3)》。](http://dblab.xmu.edu.cn/blog/2481-2/)
+    - **WordCount:** [《MapReduce编程实践(Hadoop3.1.3)》](http://dblab.xmu.edu.cn/blog/2481-2/)

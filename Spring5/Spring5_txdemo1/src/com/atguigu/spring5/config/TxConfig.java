@@ -28,7 +28,7 @@ public class TxConfig
 
         dataSource.setUrl("jdbc:mysql://localhost:3306/user_db?useUnicode=true&characterEncoding=utf8");
         dataSource.setUsername("root");
-        dataSource.setPassword("Axiuf869");
+        dataSource.setPassword("password");
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
 
         return dataSource;

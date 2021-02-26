@@ -6,6 +6,10 @@
     <file type="web" url="file://$PROJECT_DIR$/ch03-ReceiveParam" />
     <file type="web" url="file://$PROJECT_DIR$/ch04-Return" />
     <file type="web" url="file://$PROJECT_DIR$/ch05-url-pattern" />
+    <file type="web" url="file://$PROJECT_DIR$/ch06-path" />
+    <file type="web" url="file://$PROJECT_DIR$/ch07-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/ch08-forward-redirect" />
+    <file type="web" url="file://$PROJECT_DIR$/ch09-exception-handler" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -15,10 +19,14 @@
         <option value="$PROJECT_DIR$/ch03-ReceiveParam/pom.xml" />
         <option value="$PROJECT_DIR$/ch04-Return/pom.xml" />
         <option value="$PROJECT_DIR$/ch05-url-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/ch06-path/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08-forward-redirect/pom.xml" />
+        <option value="$PROJECT_DIR$/ch09-exception-handler/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ch01-hello-SpringMVC" />
         <module name="ch03-ReceiveParam" />
         <module name="ch04-Return" />
+        <module name="ch08-forward-redirect" />
         <module name="ch02-RequestMapping" />
+        <module name="ch06-path" />
+        <module name="ch01-hello-SpringMVC" />
+        <module name="ch09-exception-handler" />
         <module name="ch05-url-pattern" />
+        <module name="ch07-ssm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +25,12 @@
       <module name="ch04-Return" target="1.8" />
       <module name="ch04-Return (1)" target="1.8" />
       <module name="ch05-url-pattern" target="1.8" />
+      <module name="ch05-url-pattern (1)" target="1.8" />
+      <module name="ch06-path" target="1.8" />
+      <module name="ch07-ssm" target="1.8" />
+      <module name="ch08-forward-redirect" target="1.8" />
+      <module name="ch08-forward-redirect (1)" target="1.8" />
+      <module name="ch09-exception-handler" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
