@@ -5,88 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f080a2c-d6c2-4740-b63a-989155a340ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch04_Return_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch04_Return_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch06_path_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch06_path_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch07_ssm_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch07_ssm_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__com_alibaba_druid_1_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2_1_b03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/libraries/Maven__org_springframework_spring_tx_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/ch06-path.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/java/com/bjpowernode/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/java/com/bjpowernode/vo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/resources/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/WEB-INF/jsp/show.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/html/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/images/main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/images/p1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/images/p2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/images/p3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/images/p4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/images/ssm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/lib/jquery-3.5.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/test/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/test/test3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch06-path/src/main/webapp/test/test4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/ch07-ssm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/src/main/java/org/github/axiuf/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/src/main/java/org/github/axiuf/dao/StudentDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/src/main/java/org/github/axiuf/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/src/main/resource/conf/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/src/main/resource/conf/dispatcherServlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/src/main/resource/conf/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/src/main/resource/conf/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC/ch07-ssm/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaWeb/book/src/com/atguigu/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWeb/book/src/com/atguigu/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaWeb/book/src/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWeb/book/src/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaWeb/out/artifacts/book/WEB-INF/classes/com/atguigu/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWeb/out/artifacts/book/WEB-INF/classes/com/atguigu/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaWeb/out/artifacts/book/WEB-INF/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWeb/out/artifacts/book/WEB-INF/classes/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaWeb/out/production/book/com/atguigu/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWeb/out/production/book/com/atguigu/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaWeb/out/production/book/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWeb/out/production/book/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01-mybatis-first/src/main/resources/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch01-mybatis-first/src/main/resources/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01-mybatis-first/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch01-mybatis-first/target/classes/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02-mybatis-dao/src/main/resources/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch02-mybatis-dao/src/main/resources/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02-mybatis-dao/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch02-mybatis-dao/target/classes/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03-proxy-dao/src/main/resources/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-proxy-dao/src/main/resources/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03-proxy-dao/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-proxy-dao/target/classes/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04-param/src/main/resources/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch04-param/src/main/resources/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch04-param/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch04-param/target/classes/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch05-return-result/src/main/resources/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch05-return-result/src/main/resources/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch05-return-result/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch05-return-result/target/classes/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch06-dynamic-sql/src/main/resources/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch06-dynamic-sql/src/main/resources/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch06-dynamic-sql/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch06-dynamic-sql/target/classes/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring5/Spring5_demo2/src/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5/Spring5_demo2/src/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring5/Spring5_demo5/out/production/Spring5_demo5/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5/Spring5_demo5/out/production/Spring5_demo5/bean1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring5/Spring5_demo5/src/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5/Spring5_demo5/src/bean1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/out/production/Spring5_demo5/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/out/production/Spring5_demo5/bean1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/out/production/Spring5_txdemo1/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/out/production/Spring5_txdemo1/bean1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/out/production/Spring5_txdemo1/bean2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/out/production/Spring5_txdemo1/bean2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/src/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/src/bean1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/src/bean2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/src/bean2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/src/com/atguigu/spring5/config/TxConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring5/Spring5_txdemo1/src/com/atguigu/spring5/config/TxConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch01_hello_SpringMVC_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/ch01_hello_SpringMVC_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC/ch04-Return/target/classes/com/bjpowernode/controller/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC/ch04-Return/target/classes/com/bjpowernode/controller/MyController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC/ch05-url-pattern/target/classes/com/bjpowernode/controller/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC/ch05-url-pattern/target/classes/com/bjpowernode/controller/MyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yixue_parent/log/log_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../yixue_parent/log/log_error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yixue_parent/log/log_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/../yixue_parent/log/log_info.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +58,7 @@
     <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29256594" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.控制台字体" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -174,6 +94,7 @@
       <workItem from="1614000877112" duration="5000" />
       <workItem from="1614007108801" duration="12000" />
       <workItem from="1614172710717" duration="31000" />
+      <workItem from="1614758324522" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="Update 21/02/2021">
       <created>1613917431817</created>

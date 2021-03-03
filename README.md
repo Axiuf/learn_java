@@ -45,5 +45,7 @@
 
 - **SpringMVC:** [《2020最新SpringMVC教程》](https://www.bilibili.com/video/BV1sk4y167pD)
 
+- **Project_Online_Education:** [《在线教育项目》](https://www.bilibili.com/video/BV1dQ4y1A75e)
+
 - **bigdata_technology_and_application**
     - **WordCount:** [《MapReduce编程实践(Hadoop3.1.3)》](http://dblab.xmu.edu.cn/blog/2481-2/)
