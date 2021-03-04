@@ -26,6 +26,7 @@ import java.util.List;
  */
 @Api(description = "讲师管理")
 @RestController
+@CrossOrigin
 @RequestMapping("/eduservice/edu-teacher")
 public class EduTeacherController {
     private final EduTeacherService eduTeacherService;
@@ -128,6 +129,8 @@ public class EduTeacherController {
         if (!StringUtils.isEmpty(end)) {
             queryWrapper.le("gmt_create", end);
         }
+
+        queryWrapper.orderByDesc("gmt_create");
 
         // 根据给定的条件查询数据并封装到Wrapper中
         eduTeacherService.page(pageParam, queryWrapper);
