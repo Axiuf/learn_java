@@ -43,7 +43,7 @@ public class EduSubjectController {
     {
         List<PrimarySubject> list = eduSubjectService.getAllSubjects();
 
-        return R.ok();
+        return R.ok().data("list", list);
     }
 }
 

@@ -5,15 +5,18 @@ import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import io.github.axiuf.eduservice.entity.EduSubject;
 import io.github.axiuf.eduservice.entity.excel.SubjectData;
 import io.github.axiuf.eduservice.entity.subject.PrimarySubject;
+import io.github.axiuf.eduservice.entity.subject.SecondarySubject;
 import io.github.axiuf.eduservice.listener.SubjectExcelListener;
 import io.github.axiuf.eduservice.mapper.EduSubjectMapper;
 import io.github.axiuf.eduservice.service.EduSubjectService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
+import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -55,6 +58,31 @@ public class EduSubjectServiceImpl extends ServiceImpl<EduSubjectMapper, EduSubj
 
         List<EduSubject> secondarySubjectList = baseMapper.selectList(queryWrapper2);
 
-        return null;
+        List<PrimarySubject> finalList = new ArrayList<>();
+        for (EduSubject eduSubject : primarySubjectList)
+        {
+            PrimarySubject primarySubject = new PrimarySubject();
+            BeanUtils.copyProperties(eduSubject, primarySubject);
+
+            finalList.add(primarySubject);
+
+            List<SecondarySubject> secondaryList = new ArrayList<>();
+
+            for (EduSubject eduSubject1 : secondarySubjectList)
+            {
+                if (eduSubject1.getParentId().equals(primarySubject.getId()))
+                {
+                    SecondarySubject secondarySubject = new SecondarySubject();
+                    BeanUtils.copyProperties(eduSubject1, secondarySubject);
+
+                    secondaryList.add(secondarySubject);
+                }
+            }
+
+            primarySubject.setChildren(secondaryList);
+        }
+
+
+        return finalList;
     }
 }

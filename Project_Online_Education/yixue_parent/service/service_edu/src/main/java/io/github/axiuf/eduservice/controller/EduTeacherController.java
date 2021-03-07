@@ -43,14 +43,6 @@ public class EduTeacherController {
     @GetMapping("/findAll")
     public R findAllTeachers()
     {
-        try
-        {
-            int i = 10 / 0;
-        }
-        catch (Exception e)
-        {
-            throw new YixueException(10000, "这里执行了自定义异常");
-        }
 
         return R.ok().data("items", eduTeacherService.list(null));
     }

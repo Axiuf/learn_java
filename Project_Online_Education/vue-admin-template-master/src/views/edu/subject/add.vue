@@ -66,6 +66,8 @@ export default {
                     type: 'success',
                      message: response.message
                 })
+
+                this.$router.push({path:'/subject/list'})
             } 
         }, 
 
