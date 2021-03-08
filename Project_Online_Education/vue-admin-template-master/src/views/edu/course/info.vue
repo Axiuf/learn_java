@@ -29,7 +29,7 @@
         </el-select>
         <el-select
             v-model="courseInfo.subjectId"
-            placeholder="二级分类">
+            placeholder="二级分类" @change="forceChange">
             <el-option
             v-for="subject in secondarySubjectList"
             :key="subject.id"
@@ -38,6 +38,10 @@
         </el-select>
         </el-form-item>
   <!-- 课程讲师 TODO -->
+
+  <el-form-item label="总课时">
+            <el-input-number :min="0" v-model="courseInfo.lessonNum" controls-position="right" placeholder="请填写课程的总课时数"/>
+        </el-form-item>
   <!-- 课程讲师 -->
         <el-form-item label="课程讲师">
         <el-select
@@ -51,13 +55,11 @@
         </el-select>
         </el-form-item>
 
-        <el-form-item label="总课时">
-            <el-input-number :min="0" v-model="courseInfo.lessonNum" controls-position="right" placeholder="请填写课程的总课时数"/>
-        </el-form-item>
+        
 
   <!-- 课程简介 TODO -->
         <el-form-item label="课程简介">
-            <el-input v-model="courseInfo.title" placeholder=" 示例：机器学习项目课：从基础到搭建项目视频课程。专业名称注意大小写"/>
+            <tinymce :height="300" v-model="courseInfo.description"/>
         </el-form-item>
   <!-- 课程封面 TODO -->
         <!-- 课程封面-->
@@ -79,7 +81,7 @@
         </el-form-item>
 
         <el-form-item>
-            <el-button :disabled="saveBtnDisabled" type="primary" @click="saveOrUpdate()">保存并下一步</el-button>
+            <el-button :disabled="saveBtnDisabled" type="primary" @click="saveOrUpdate">保存并下一步</el-button>
         </el-form-item>
     </el-form>
   </div>
@@ -89,7 +91,10 @@
 <script>
 import course from '@/api/edu/course'
 import subject from '@/api/edu/subject'
+import Tinymce from '@/components/Tinymce'
 export default {
+
+    components: {Tinymce},
   data() {
     return {
       saveBtnDisabled: false, // 保存按钮是否禁用
@@ -104,19 +109,64 @@ export default {
         price: 0
       }, 
 
-        BASE_API: process.env.BASE_API, // 接口API地址
+      BASE_API: process.env.BASE_API, // 接口API地址
       teacherList: [], 
       primarySubjectList: [],
-      secondarySubjectList: []
+      secondarySubjectList: [],
+      courseId: '',
     }
   },
 
   created() {
-      this.getListTeacher()
-      this.getPrimarySubject()
+      this.init()
+  },
+
+  watch: {
+    $route(to, from) {
+      this.init()
+    }
   },
 
   methods: {
+
+      forceChange(){
+         this.$forceUpdate()
+      },
+
+      init() {
+          if (this.$route.params && this.$route.params.id)
+            {
+                this.courseId = this.$route.params.id
+                this.getInfo()
+                this.getListTeacher()
+            } else{
+                this.courseInfo = {}
+                this.courseInfo.cover = '/static/ssm.jpg'
+                this.getListTeacher()
+                this.getPrimarySubject()
+            }
+      },
+
+      getInfo() {
+          course.getCourseInfo(this.courseId)
+            .then(response => {
+                this.courseInfo = response.data.courseInfoVo
+
+
+                subject.getSubjectList()
+                .then(response => {
+                    this.primarySubjectList = response.data.list
+
+                    for(var i = 0; i< this.primarySubjectList.length; i++)
+                    {
+                        var primarySubject = this.primarySubjectList[i];
+                        if (this.courseInfo.subjectParentId == primarySubject.id){
+                            this.secondarySubjectList = primarySubject.children
+                        }
+                    }
+                })
+            })
+      },
 
       handleAvatarSuccess(res, file){
         this.courseInfo.cover = res.data.url
@@ -162,7 +212,7 @@ export default {
             })
       }, 
 
-    saveOrUpdate() {
+    save() {
         course.saveCourseInfo(this.courseInfo)
             .then(response => {
                 this.$message({
@@ -172,9 +222,34 @@ export default {
                 this.$router.push({ path: '/course/chapter/' + response.data.cid })
             })
 
+    },
 
-      
+    update() {
+            course.updateCourseInfo(this.courseInfo)
+            .then(response => {
+                this.$message({
+                type: 'success',
+                message: '修改课程成功'
+                })
+                this.$router.push({ path: '/course/chapter/' + this.courseId })
+
+            })
+    },
+
+    saveOrUpdate() {
+        if (this.courseInfo.id){
+            this.update()
+        }else{
+            this.save()
+        }
+        }
     }
-  }
 }
 </script>
+
+
+<style scoped>
+.tinymce-container {
+  line-height: 29px;
+}
+</style>
