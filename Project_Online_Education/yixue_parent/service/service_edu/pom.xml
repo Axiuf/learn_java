@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>service_edu</artifactId>
+    <artifactId>service-edu</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -25,17 +25,6 @@
         </dependency>
     </dependencies>
 
-    <!-- 项目打包时会将java目录中的*.xml文件也进行打包 -->
-    <build>
-        <resources>
-            <resource>
-                <directory>src/main/java</directory>
-                <includes>
-                    <include>**/*.xml</include>
-                </includes>
-                <filtering>false</filtering>
-            </resource>
-        </resources>
-    </build>
+
 
 </project>

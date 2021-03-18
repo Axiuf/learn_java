@@ -105,7 +105,7 @@ export default {
         teacherId: '',
         lessonNum: 0,
         description: '',
-        cover: '/static/ssm.jpg',
+        cover: '/static/OnlineEducation.jpg',
         price: 0
       }, 
 
@@ -141,7 +141,7 @@ export default {
                 this.getListTeacher()
             } else{
                 this.courseInfo = {}
-                this.courseInfo.cover = '/static/ssm.jpg'
+                this.courseInfo.cover = '/static/OnlineEducation.jpg'
                 this.getListTeacher()
                 this.getPrimarySubject()
             }

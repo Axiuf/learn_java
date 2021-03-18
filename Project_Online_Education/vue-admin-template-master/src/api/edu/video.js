@@ -9,13 +9,19 @@ export default {
         })
     },
 
-    deleteVideo(id) {
+    deleteVideo(id)
+    {
         return request({
             url: '/eduservice/edu-video/deleteVideo/' + id,
             method: 'delete', 
         })
     },
 
-
+    deleteAliVideo(id) {
+        return request({
+            url: '/eduvod/video/removeAliVideo/' + id,
+            method: 'delete', 
+        })
+    },
 
 }

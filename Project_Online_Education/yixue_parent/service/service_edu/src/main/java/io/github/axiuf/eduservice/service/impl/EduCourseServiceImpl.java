@@ -5,8 +5,10 @@ import io.github.axiuf.eduservice.entity.EduCourseDescription;
 import io.github.axiuf.eduservice.entity.vo.CourseInfoVo;
 import io.github.axiuf.eduservice.entity.vo.CoursePublishVo;
 import io.github.axiuf.eduservice.mapper.EduCourseMapper;
+import io.github.axiuf.eduservice.service.EduChapterService;
 import io.github.axiuf.eduservice.service.EduCourseService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
+import io.github.axiuf.eduservice.service.EduVideoService;
 import io.github.axiuf.servicebase.exceptionhandler.YixueException;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,6 +27,20 @@ import org.springframework.stereotype.Service;
 public class EduCourseServiceImpl extends ServiceImpl<EduCourseMapper, EduCourse> implements EduCourseService {
 
     private EduCourseDescriptionServiceImpl eduCourseDescriptionService;
+    private EduVideoService eduVideoService;
+    private EduChapterService eduChapterService;
+
+    @Autowired
+    public void setEduVideoService(EduVideoService eduVideoService)
+    {
+        this.eduVideoService = eduVideoService;
+    }
+
+    @Autowired
+    public void setEduChapterService(EduChapterService eduChapterService)
+    {
+        this.eduChapterService = eduChapterService;
+    }
 
     @Autowired
     public void setEduCourseDescriptionService(EduCourseDescriptionServiceImpl eduCourseDescriptionService)
@@ -95,5 +111,23 @@ public class EduCourseServiceImpl extends ServiceImpl<EduCourseMapper, EduCourse
         CoursePublishVo publishCourseInfo = baseMapper.getPublishCourseInfo(id);
 
         return publishCourseInfo;
+    }
+
+    @Override
+    public void removeCourseInfo(String id)
+    {
+        eduVideoService.removeVideoByCourseId(id);
+
+        eduChapterService.removeChapterByCourseId(id);
+
+        eduCourseDescriptionService.removeById(id);
+
+        int delete = baseMapper.deleteById(id);
+
+        if (delete == 0)
+        {
+            throw new YixueException(20001, "删除失败");
+        }
+
     }
 }

@@ -1,9 +1,12 @@
 package io.github.axiuf.eduservice.controller;
 
 
+import com.mysql.cj.util.StringUtils;
 import io.github.axiuf.commonutils.R;
+import io.github.axiuf.eduservice.client.VodClient;
 import io.github.axiuf.eduservice.entity.EduVideo;
 import io.github.axiuf.eduservice.service.EduVideoService;
+import io.github.axiuf.servicebase.exceptionhandler.YixueException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -20,6 +23,13 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/eduservice/edu-video")
 public class EduVideoController {
     private EduVideoService eduVideoService;
+    private VodClient vodClient;
+
+    @Autowired
+    public void setVodClient(VodClient vodClient)
+    {
+        this.vodClient = vodClient;
+    }
 
     @Autowired
     public void setEduVideoService(EduVideoService eduVideoService)
@@ -35,12 +45,22 @@ public class EduVideoController {
         return R.ok();
     }
 
-    // 后续要补充删除小节的时候删除对应的视频
     @DeleteMapping("/deleteVideo/{id}")
     public R deleteVideo(@PathVariable String id)
     {
-        eduVideoService.removeById(id);
 
+        EduVideo eduVideo = eduVideoService.getById(id);
+        String videoSourceId = eduVideo.getVideoSourceId();
+
+        if (!StringUtils.isNullOrEmpty(videoSourceId)){
+            R result = vodClient.removeAliVideo(videoSourceId);
+            if(result.getCode() == 20001)
+            {
+                throw new YixueException(20001, "删除视频失败");
+            }
+        }
+
+        eduVideoService.removeById(id);
         return R.ok();
     }
 }

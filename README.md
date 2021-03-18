@@ -47,5 +47,7 @@
 
 - **Project_Online_Education:** [《在线教育项目》](https://www.bilibili.com/video/BV1dQ4y1A75e)
 
+- **JVMDemo:** [《JVM全套教程》](https://www.bilibili.com/video/BV1PJ411n7xZ)
+
 - **bigdata_technology_and_application**
     - **WordCount:** [《MapReduce编程实践(Hadoop3.1.3)》](http://dblab.xmu.edu.cn/blog/2481-2/)
