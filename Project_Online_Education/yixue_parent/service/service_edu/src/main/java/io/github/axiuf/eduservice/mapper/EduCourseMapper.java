@@ -2,6 +2,7 @@ package io.github.axiuf.eduservice.mapper;
 
 import io.github.axiuf.eduservice.entity.EduCourse;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import io.github.axiuf.eduservice.entity.frontvo.CourseWebVo;
 import io.github.axiuf.eduservice.entity.vo.CoursePublishVo;
 
 /**
@@ -14,4 +15,6 @@ import io.github.axiuf.eduservice.entity.vo.CoursePublishVo;
  */
 public interface EduCourseMapper extends BaseMapper<EduCourse> {
     public CoursePublishVo getPublishCourseInfo(String courseId);
+
+    CourseWebVo selectInfoWebById(String courseId);
 }

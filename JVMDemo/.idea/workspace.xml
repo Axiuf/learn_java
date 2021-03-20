@@ -2,402 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37ad470f-0e15-4db5-b6e2-9d076547c5da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter01/chapter01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter01/src/com/atguigu/java/StackStruTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/chapter02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java/ClassInitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java/ClinitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java/ClinitTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java/DeadThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java/HelloApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java/HelloLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java1/ClassLoaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java1/ClassLoaderTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java1/ClassLoaderTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java1/CustomClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/com/atguigu/java1/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/java/lang/ShkStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/java/lang/String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/chapter03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter04/chapter04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter04/src/com/atguigu/java/PCRegisterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/chapter05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java/SlotTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java/StackErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java/VirtualMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java1/DynamicLinkingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java1/LocalVariablesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java1/OperandStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java1/StackFrameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java2/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java2/Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java2/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java3/ReturnAddressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java3/StringBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/src/com/atguigu/java3/VirtualMethodTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter06/chapter06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter06/src/com/atguigu/java/IHaveNatives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/chapter07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/chapter08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java/HeapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java/HeapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java/HeapSpaceInitial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java/OOMTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java/SimpleHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java1/EdenSurvivorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java1/GCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java1/HeapArgsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java1/HeapInstanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java1/TLABArgsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java1/YoungOldAreaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java2/EscapeAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java2/ScalarReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java2/StackAllocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/src/com/atguigu/java2/SynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/chapter09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/src/com/atguigu/java/MethodAreaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/src/com/atguigu/java/MethodAreaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/src/com/atguigu/java/MethodInnerStrucTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/src/com/atguigu/java/OOMTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/src/com/atguigu/java/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/src/com/atguigu/java/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/src/com/atguigu/java1/MethodAreaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/src/com/atguigu/java1/StaticFieldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/src/com/atguigu/java1/StaticObjTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter09/src/com/atguigu/java1/test2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/chapter10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/src/com/atguigu/java/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/src/com/atguigu/java/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/src/com/atguigu/java/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/chapter11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/com/atguigu/java/BufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/com/atguigu/java/BufferTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/com/atguigu/java/BufferTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/com/atguigu/java/MaxDirectMemorySizeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/chapter12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/com/atguigu/java/IntCompTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/com/atguigu/java/JITTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/chapter13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java/GenerateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java/StringExer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java/StringTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java/StringTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java/StringTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java1/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java1/StringTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java1/StringTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java2/StringExer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java2/StringExer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java2/StringIntern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java2/StringIntern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java2/StringIntern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java2/StringNewTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/src/com/atguigu/java3/StringGCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter14/chapter14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/chapter15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/heapdump-1588683511494.hprof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/heapdump-1588683591989.hprof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/com/atguigu/java/CanReliveObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/com/atguigu/java/GCRootsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/com/atguigu/java/HeapOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/com/atguigu/java/RefCountGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/chapter16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/src/com/atguigu/java/LocalVarGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/src/com/atguigu/java/StopTheWorldDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/src/com/atguigu/java/SystemGCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/src/com/atguigu/java1/PhantomReferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/src/com/atguigu/java1/SoftReferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/src/com/atguigu/java1/StrongReferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter16/src/com/atguigu/java1/WeakReferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter17/chapter17.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter17/src/com/atguigu/java/GCLogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter17/src/com/atguigu/java/GCLogTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter17/src/com/atguigu/java/GCUseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/backref.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/backreflp.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/check.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/dominator.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/dominator.off" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/hprof.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/initial.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/instances.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/main.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/map.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.dat9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.off0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.off1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/outgoing.off2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/retained.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid11856.hprof.analysis/sets.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/backref.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/backreflp.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/check.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/dominator.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/dominator.off" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/hprof.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/initial.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/instances.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/main.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/map.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.dat9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.off0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.off1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/outgoing.off2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/retained.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_pid6380.hprof.analysis/sets.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/gc.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClassInitTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest1$Father.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest1$Son.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/DeadThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/DeadThreadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/HelloApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/HelloLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/ClassLoaderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/ClassLoaderTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/ClassLoaderTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/CustomClassLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/StringTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/java/lang/ShkStart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter02/java/lang/String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter04/com/atguigu/java/PCRegisterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/Father.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/SlotTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/Son.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/StackErrorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/StackTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/VirtualMethodTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/DynamicLinkingTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/OperandStackTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/StackFrameTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/AnimalTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Father.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Func.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Huntable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Lambda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/MethodInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Son.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/CockerSpaniel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/Friendly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/ReturnAddressTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/VirtualMethodTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/META-INF/chapter08.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapInstanceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapSpaceInitial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapSpaceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/OOMTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/Picture.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/SimpleHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/StackAllocation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/EdenSurvivorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/GCTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/HeapArgsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/HeapInstanceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/TLABArgsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/YoungOldAreaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/EscapeAnalysis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/ScalarReplace$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/ScalarReplace.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/StackAllocation$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/StackAllocation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/SynchronizedTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/META-INF/chapter09.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/MethodAreaDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/MethodAreaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/MethodInnerStrucTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/OOMTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/PermGenTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/MethodAreaDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticFieldTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticObjTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticObjTest$ObjectHolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticObjTest$Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticObjTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/test2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter10/META-INF/chapter10.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/CustomerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/ObjectTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter12/com/atguigu/java/IntCompTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter12/com/atguigu/java/JITTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/META-INF/chapter13.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/GenerateString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringExer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringTest3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java1/Memory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java1/StringTest4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java1/StringTest5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringExer1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringExer2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringIntern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringIntern1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringIntern2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringNewTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java3/StringGCTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter15/com/atguigu/java/CanReliveObj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter15/com/atguigu/java/GCRootsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter15/com/atguigu/java/HeapOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter15/com/atguigu/java/RefCountGC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/META-INF/chapter16.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java/LocalVarGC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java/StopTheWorldDemo$PrintThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java/StopTheWorldDemo$WorkThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java/StopTheWorldDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java/SystemGCTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/PhantomReferenceTest$CheckRefQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/PhantomReferenceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/SoftReferenceTest$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/SoftReferenceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/StrongReferenceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/WeakReferenceTest$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/WeakReferenceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCLogTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCLogTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCUseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/static/OnlineEducation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/static/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/static/template.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/common/common_utils/src/main/java/io/github/axiuf/commonutils/JwtUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/common/common_utils/src/main/java/io/github/axiuf/commonutils/MD5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/common/service_base/src/main/java/io/github/axiuf/servicebase/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/error/log-error-2021-03-07.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/error/log-error-2021-03-10.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/info/log-info-2021-03-08.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/info/log-info-2021-03-09.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/info/log-info-2021-03-11.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/warn/log-warn-2021-03-08.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/warn/log-warn-2021-03-10.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/warn/log-warn-2021-03-11.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/warn/log-warn-2021-03-13.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/warn/log-warn-2021-03-15.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_acl/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_acl/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/src/main/java/io/github/axiuf/educms/CmsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/src/main/java/io/github/axiuf/educms/controller/BannerAdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/src/main/java/io/github/axiuf/educms/controller/BannerFrontController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/src/main/java/io/github/axiuf/educms/entity/CrmBanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/src/main/java/io/github/axiuf/educms/mapper/CrmBannerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/src/main/java/io/github/axiuf/educms/mapper/xml/CrmBannerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/src/main/java/io/github/axiuf/educms/service/CrmBannerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/src/main/java/io/github/axiuf/educms/service/impl/CrmBannerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_cms/src/test/java/io/github/axiuf/codegenerator/CodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/client/VodClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/client/VodFileDegradeFeignClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_msm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_msm/src/main/java/io/github/axiuf/msmservice/ServiceMsmApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_msm/src/main/java/io/github/axiuf/msmservice/controller/MsmApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_msm/src/main/java/io/github/axiuf/msmservice/service/MsmService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_msm/src/main/java/io/github/axiuf/msmservice/service/impl/MsmServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_msm/src/main/java/io/github/axiuf/msmservice/utils/RandomUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_msm/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/ServiceUcApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/controller/UcenterMemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/controller/WxApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/entity/UcenterMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/entity/vo/LoginVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/entity/vo/RegisterVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/mapper/UcenterMemberMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/mapper/xml/UcenterMemberMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/service/UcenterMemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/service/impl/UcenterMemberServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/utils/ConstantPropertiesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/java/io/github/axiuf/educenter/utils/HttpClientUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_ucenter/src/test/java/CodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_vod/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_vod/src/main/java/io/github/axiuf/vod/VodApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_vod/src/main/java/io/github/axiuf/vod/controller/VodController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_vod/src/main/java/io/github/axiuf/vod/service/VodService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_vod/src/main/java/io/github/axiuf/vod/service/impl/VodServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_vod/src/main/java/io/github/axiuf/vod/utils/ConstantVodUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_vod/src/main/java/io/github/axiuf/vod/utils/InitVodClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_vod/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_vod/src/test/java/io/github/axiuf/vodtest/InitVodClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_vod/src/test/java/io/github/axiuf/vodtest/TestVod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/api/edu/course.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/api/edu/course.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/api/edu/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/api/edu/video.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/course/chapter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/course/chapter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/course/info.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/course/info.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/course/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/course/list.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/course/publish.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/course/publish.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/subject/add.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/subject/add.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/teacher/add.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/src/views/edu/teacher/add.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/static/p1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/static/ssm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/vue-admin-template-master/static/write.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/common/common_utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/common/common_utils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/log_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/log_error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/log_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/log_info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/log_warn.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/log/log_warn.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/EduApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/EduApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/controller/EduCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/controller/EduCourseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/controller/EduVideoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/controller/EduVideoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/entity/EduCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/entity/EduCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/EduChapterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/EduChapterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/EduCourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/EduCourseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/EduVideoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/EduVideoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/impl/EduChapterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/impl/EduChapterServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/impl/EduCourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/impl/EduCourseServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/impl/EduVideoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/java/io/github/axiuf/eduservice/service/impl/EduVideoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_edu/src/test/java/io/github/axiuf/TestThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_oss/src/main/java/io/github/axiuf/ossservice/OssApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_oss/src/main/java/io/github/axiuf/ossservice/OssApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_oss/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_Online_Education/yixue_parent/service/service_oss/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/StringBuilderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter06/com/atguigu/java/IHaveNatives.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/BufferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/BufferTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/BufferTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/MaxDirectMemorySizeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClassInitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest1$Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest1$Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/DeadThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/DeadThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/HelloApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/HelloLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/ClassLoaderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/ClassLoaderTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/ClassLoaderTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/CustomClassLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/java/lang/ShkStart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter02/java/lang/String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/META-INF/chapter08.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapInstanceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapSpaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/StackAllocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/META-INF/chapter09.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/OOMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/OOMTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/PermGenTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticFieldTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticFieldTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter10/META-INF/chapter10.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/META-INF/chapter13.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/META-INF/chapter16.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/SoftReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/SoftReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCLogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCLogTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCUseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCUseTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -457,7 +103,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -479,7 +125,30 @@
       <recent name="D:\workspace_idea5\JVMDemo\chapter09\src\com\atguigu\java1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.6" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="io.github.axiuf.vodtest.Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.axiuf.vodtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.6" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="io.github.axiuf.vodtest.Solution" />
+      <module name="service_vod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.6" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -488,6 +157,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Solution (1)" />
+        <item itemvalue="应用程序.Solution" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -577,7 +263,7 @@
       <workItem from="1589248415976" duration="7897000" />
       <workItem from="1615893768545" duration="2115000" />
       <workItem from="1615989534798" duration="29000" />
-      <workItem from="1615989576290" duration="704000" />
+      <workItem from="1615989576290" duration="3545000" />
     </task>
     <servers />
   </component>
