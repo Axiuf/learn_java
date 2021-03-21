@@ -40,8 +40,11 @@
                     <a class="c-fff vam" title="收藏" href="#" >收藏</a>
                 </span>
             </section>
-            <section class="c-attr-mt">
-                <a href="#" title="立即观看" class="comm-btn c-btn-3">立即观看</a>
+            <section v-if="isbuy || Number(course.price)===0" class="c-attr-mt">
+              <a href="#" title="立即观看" class="comm-btn c-btn-3" >立即观看</a>
+            </section>
+            <section v-else class="c-attr-mt">
+                <a href="#" title="立即购买" class="comm-btn c-btn-3" @click="createOrder()">立即购买</a>
             </section>
         </section>
     </aside>
@@ -264,15 +267,17 @@
 <script>
 import course from '@/api/course'
 import comment from '@/api/commonedu'
+import order from '@/api/order'
 export default {
 
      //和页面异步开始的
   asyncData({ params, error }) {
     return course.getById(params.id).then(response => {
-      console.log(response);
+      // console.log(response);
       return { 
         course: response.data.data.course,
-        chapterList: response.data.data.chapterVoList
+        chapterList: response.data.data.chapterVoList,
+        
       }
       
     })
@@ -291,12 +296,13 @@ export default {
       courseInfo:{},
       chapterVideoList:[],
       isbuyCourse:false,
-      courseId:''
+      courseId:'',
+      isbuy:false
     }
   },
   created() {
-    // this.initCourseInfo()
     this.courseId = this.$route.params.id
+    this.initCourseInfo()
     this.initComment()
   },
   methods:{
@@ -307,6 +313,7 @@ export default {
               this.courseInfo=response.data.data.courseFrontInfo
               this.chapterVideoList=response.data.data.chapterVideoList
               this.isbuyCourse=response.data.data.isbuyCourse
+              this.isbuy=response.data.data.isbuy
             })
     },
 
@@ -330,7 +337,17 @@ export default {
           comment.getPageList(page, this.limit,this.courseId).then(response => {
               this.data = response.data.data
           })
-      }
+      },
+
+      //根据课程id，调用接口方法生成订单
+    createOrder(){
+        order.createOrder(this.courseId).then(response => {
+            if(response.data.success){
+                //订单创建成功，跳转到订单页面
+                this.$router.push({ path: '/order/'+ response.data.data.orderId })
+            }
+        })
+    },
   }
   
 };

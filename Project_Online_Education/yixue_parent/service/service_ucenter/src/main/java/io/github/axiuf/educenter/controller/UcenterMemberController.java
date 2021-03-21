@@ -3,6 +3,7 @@ package io.github.axiuf.educenter.controller;
 
 import io.github.axiuf.commonutils.JwtUtils;
 import io.github.axiuf.commonutils.R;
+import io.github.axiuf.commonutils.UcenterMemberOrder;
 import io.github.axiuf.educenter.entity.UcenterMember;
 import io.github.axiuf.educenter.entity.vo.LoginVo;
 import io.github.axiuf.educenter.entity.vo.RegisterVo;
@@ -66,6 +67,23 @@ public class UcenterMemberController {
         UcenterMember member = new UcenterMember();
         BeanUtils.copyProperties(ucenterMember,member);
         return member;
+    }
+
+    //根据token字符串获取用户信息
+    @PostMapping("getInfoUcOrder/{id}")
+    public UcenterMemberOrder getInfoOrder(@PathVariable String id) {
+        //根据用户id获取用户信息
+        UcenterMember ucenterMember = memberService.getById(id);
+        UcenterMemberOrder member = new UcenterMemberOrder();
+        BeanUtils.copyProperties(ucenterMember,member);
+        return member;
+    }
+
+    @GetMapping(value = "countregister/{day}")
+    public R registerCount(
+            @PathVariable String day){
+        Integer count = memberService.countRegisterByDay(day);
+        return R.ok().data("countRegister", count);
     }
 }
 
