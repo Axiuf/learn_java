@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/educms/banner-admin")
-@CrossOrigin
+
 public class BannerAdminController {
 
     private CrmBannerService bannerService;

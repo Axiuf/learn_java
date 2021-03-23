@@ -18,7 +18,7 @@ import java.util.List;
  * @author autoGenerator
  * @since 2021-03-07
  */
-@CrossOrigin
+
 @RestController
 @RequestMapping("/eduservice/edu-chapter")
 public class EduChapterController {

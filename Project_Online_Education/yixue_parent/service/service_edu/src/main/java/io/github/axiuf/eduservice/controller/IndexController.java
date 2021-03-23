@@ -20,7 +20,7 @@ import java.util.List;
  */
 @RestController
 @RequestMapping("/eduservice/index")
-@CrossOrigin
+
 public class IndexController {
 
     private EduCourseService courseService;

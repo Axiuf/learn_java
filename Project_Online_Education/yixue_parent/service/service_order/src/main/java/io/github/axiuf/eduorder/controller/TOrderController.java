@@ -22,7 +22,7 @@ import java.util.Map;
  */
 @RestController
 @RequestMapping("/orderservice/order")
-@CrossOrigin
+
 public class TOrderController {
 
     @Autowired

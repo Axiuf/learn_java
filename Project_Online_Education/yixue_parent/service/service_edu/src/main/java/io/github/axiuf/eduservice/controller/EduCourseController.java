@@ -28,7 +28,7 @@ import java.util.List;
  * @since 2021-03-07
  */
 @RestController
-@CrossOrigin
+
 @RequestMapping("/eduservice/edu-course")
 public class EduCourseController {
     private EduCourseService eduCourseService;

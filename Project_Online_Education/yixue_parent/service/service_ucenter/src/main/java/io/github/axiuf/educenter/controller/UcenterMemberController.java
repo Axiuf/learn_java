@@ -26,7 +26,7 @@ import javax.servlet.http.HttpServletRequest;
  */
 @RestController
 @RequestMapping("/ucenterservice/apimember")
-@CrossOrigin
+
 public class UcenterMemberController {
 
     @Autowired

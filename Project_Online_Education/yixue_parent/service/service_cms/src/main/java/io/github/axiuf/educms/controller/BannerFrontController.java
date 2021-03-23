@@ -21,7 +21,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/educms/banner-front")
 @Api(description = "网站首页Banner列表")
-@CrossOrigin //跨域
+ //跨域
 public class BannerFrontController {
 
     private CrmBannerService bannerService;
