@@ -1,49 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37ad470f-0e15-4db5-b6e2-9d076547c5da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/StringBuilderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter06/com/atguigu/java/IHaveNatives.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/BufferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/BufferTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/BufferTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/MaxDirectMemorySizeTest.class" afterDir="false" />
+    <list default="true" id="37ad470f-0e15-4db5-b6e2-9d076547c5da" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClassInitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest1$Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest1$Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/ClinitTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/DeadThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/DeadThreadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/HelloApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java/HelloLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/ClassLoaderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/ClassLoaderTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/ClassLoaderTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/CustomClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/com/atguigu/java1/StringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/java/lang/ShkStart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter02/java/lang/String.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/META-INF/chapter08.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapInstanceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapSpaceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/StackAllocation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter09/META-INF/chapter09.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/OOMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/OOMTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/PermGenTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticFieldTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticFieldTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter10/META-INF/chapter10.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter13/META-INF/chapter13.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter16/META-INF/chapter16.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/SoftReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/SoftReferenceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCLogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCLogTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCUseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCUseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter04/com/atguigu/java/PCRegisterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/SlotTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/StackErrorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/StackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java/VirtualMethodTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/DynamicLinkingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/LocalVariablesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/OperandStackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java1/StackFrameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/AnimalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Func.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Huntable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/MethodInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java2/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/CockerSpaniel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/Friendly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/ReturnAddressTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/StringBuilderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter05/com/atguigu/java3/VirtualMethodTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter06/com/atguigu/java/IHaveNatives.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/HeapSpaceInitial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/OOMTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/Picture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java/SimpleHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/EdenSurvivorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/GCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/HeapArgsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/HeapInstanceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/TLABArgsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java1/YoungOldAreaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/EscapeAnalysis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/ScalarReplace$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/ScalarReplace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/StackAllocation$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/StackAllocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/atguigu/java2/SynchronizedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/MethodAreaDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/MethodAreaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/MethodInnerStrucTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/OOMTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java/test1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/MethodAreaDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticFieldTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticObjTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticObjTest$ObjectHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticObjTest$Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/StaticObjTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter09/com/atguigu/java1/test2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/CustomerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter10/com/atguigu/java/ObjectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/BufferTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/BufferTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/BufferTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter11/com/atguigu/java/MaxDirectMemorySizeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter12/com/atguigu/java/IntCompTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter12/com/atguigu/java/JITTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/GenerateString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringExer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java/StringTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java1/Memory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java1/StringTest4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java1/StringTest5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringExer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringExer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringIntern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringIntern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringIntern2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java2/StringNewTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter13/com/atguigu/java3/StringGCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter15/com/atguigu/java/CanReliveObj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter15/com/atguigu/java/GCRootsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter15/com/atguigu/java/HeapOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter15/com/atguigu/java/RefCountGC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java/LocalVarGC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java/StopTheWorldDemo$PrintThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java/StopTheWorldDemo$WorkThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java/StopTheWorldDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java/SystemGCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/PhantomReferenceTest$CheckRefQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/PhantomReferenceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/SoftReferenceTest$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/SoftReferenceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/StrongReferenceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/WeakReferenceTest$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter16/com/atguigu/java1/WeakReferenceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCLogTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCLogTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter17/com/atguigu/java/GCUseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,17 +222,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.Solution (1)" />
@@ -264,6 +318,8 @@
       <workItem from="1615893768545" duration="2115000" />
       <workItem from="1615989534798" duration="29000" />
       <workItem from="1615989576290" duration="3545000" />
+      <workItem from="1616515418467" duration="177000" />
+      <workItem from="1618137914817" duration="35000" />
     </task>
     <servers />
   </component>
