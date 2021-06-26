@@ -9,179 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="255d0218-d4da-44b8-9ff4-0a619c770bb1" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/book.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/JavaEE6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/08_Cookie_Session.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/13_cookie_session.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/src/com/atguigu/servlet/BaseServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/src/com/atguigu/servlet/CookieServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/src/com/atguigu/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/src/com/atguigu/servlet/SessionServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/src/com/atguigu/util/CookieUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/web/cookie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/13_cookie_session/web/session.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/tmp/src/com/atguigu/servlet/RegistServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/tmp/tmp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/tmp/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/tmp/web/lib/kaptcha-2.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/tmp/web/ok.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Cookie_Session/src/tmp/web/regist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Filter/09_Filter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Filter/src/tmp/src/com/atguigu/servlet/RegistServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Filter/src/tmp/src/com/atguigu/threadlocal/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Filter/src/tmp/src/com/atguigu/threadlocal/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Filter/src/tmp/src/com/atguigu/threadlocal/ThreadLocalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Filter/src/tmp/tmp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Filter/src/tmp/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Filter/src/tmp/web/lib/kaptcha-2.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Filter/src/tmp/web/ok.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Filter/src/tmp/web/regist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/10_JSON_AJAX_i18n.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/16_json_ajax_i18n.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/src/com/atguigu/i18n/I18nTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/src/com/atguigu/json/JsonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/src/com/atguigu/json/PersonListType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/src/com/atguigu/json/PersonMapType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/src/com/atguigu/pojo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/src/com/atguigu/servlet/AjaxServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/src/com/atguigu/servlet/BaseServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/src/i18n_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/src/i18n_zh_CN.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/Jquery_Ajax_request.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/ajax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/i18n.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/i18n_fmt.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/json.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_JSON_AJAX_i18n/src/16_json_ajax_i18n/web/script/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/book.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/sql/book.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/dao/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/dao/OrderItemDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/dao/impl/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/dao/impl/OrderDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/dao/impl/OrderItemDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/filter/ManagerFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/filter/TransactionFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/pojo/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/pojo/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/pojo/CartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/pojo/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/pojo/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/pojo/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/test/BookDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/test/BookServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/test/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/test/JdbcUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/test/OrderDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/test/OrderItemDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/test/OrderServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/test/UserDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/test/UserServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/test/UserServletTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/utils/JdbcUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/utils/WebUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/web/BaseServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/web/BookServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/web/CartServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/web/ClientBookServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/web/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/web/OrderServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/web/RegistServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/com/atguigu/web/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/src/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/cart/cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/cart/checkout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/client/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/common/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/common/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/common/login_success_menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/common/manager_menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/common/page_nav.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/error/error404.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/error/error500.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/book_edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/book_manager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/manager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/manager/order_manager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/order/order.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/test/dzcp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/test/fzyp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/user/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/user/login_success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/user/regist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/pages/user/regist_success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/static/img/code.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/static/img/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/static/img/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/static/img/pwd-icons-new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/web/static/script/jquery-1.7.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_HTML_CSS/01_HTML_CSS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01_HTML_CSS/01_HTML_CSS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_JavaScript/02_JavaScript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/02_JavaScript/02_JavaScript.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_jQuery/03_jQuery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/03_jQuery/03_jQuery.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_XML_Tomcat/04_XML_Tomcat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/04_XML_Tomcat/04_XML_Tomcat.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_Servlet/05_Servlet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/05_Servlet/05_Servlet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_JSP/06_JSP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/06_JSP/06_JSP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_EL_JSTL/07_EL_JSTL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/07_EL_JSTL/07_EL_JSTL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWeb.iml" afterDir="false" />
-    </list>
+    <list default="true" id="255d0218-d4da-44b8-9ff4-0a619c770bb1" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,7 +62,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="15" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/book" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPattern" />
     <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.46882495" />
@@ -723,6 +551,7 @@
       <workItem from="1612174427161" duration="6000" />
       <workItem from="1612174440055" duration="725000" />
       <workItem from="1612194565751" duration="202000" />
+      <workItem from="1618138283586" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="Add jQuery">
       <created>1610985878156</created>

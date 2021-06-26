@@ -14,7 +14,11 @@
 
 - **SpringMVC:** [《2020最新SpringMVC教程》](https://www.bilibili.com/video/BV1sk4y167pD)
 
+- **projectX:** SpringBoot练手。
+
 - **Project_Online_Education:** [《在线教育项目》](https://www.bilibili.com/video/BV1dQ4y1A75e)
+
+- **secKill:** [《Java高并发秒杀项目》](https://www.imooc.com/learn/587)
 
 - **JVMDemo:** [《JVM全套教程》](https://www.bilibili.com/video/BV1PJ411n7xZ)
 

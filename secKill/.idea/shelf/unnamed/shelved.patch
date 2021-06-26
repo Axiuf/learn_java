@@ -1,0 +1,14 @@
+Index: src/main/resources/jdbc.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/resources/jdbc.properties b/src/main/resources/jdbc.properties
+new file mode 100644
+--- /dev/null	(date 1618669423186)
++++ b/src/main/resources/jdbc.properties	(date 1618669423186)
+@@ -0,0 +1,4 @@
++driver=com.mysql.jdbc.Driver
++url=jdbc:mysql://127.0.0.1:3306/seckill?useUnicode=true&characterEncoding=utf8
++user=root
++password=Axiuf869
